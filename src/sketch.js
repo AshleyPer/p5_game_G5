@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background(100, 104, 250);
+  background(255, 104, 100);
   textSize(32);
-  text('This is a Test', 300, height / 2)
+  text('This is not a test!', 300, height / 2)
 }
